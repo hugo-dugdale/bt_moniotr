@@ -1,0 +1,6 @@
+35:8f:00:00:ad:b VivaChek_glucose_meter
+b4:52:a9:ae:83:58 iHealth_blood_pressure_monitor
+21:11:2C:12:03 Wellue_O2_ring
+88:54:1F:03:E6:C4 pixel4
+84:CC:A8:D6:0B:3A Renpho_scale
+
